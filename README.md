@@ -1,2 +1,2 @@
 # git-practice
-This is a repository for my practice on github an gitbash.
+This is a repository for my practice on github and gitbash.
